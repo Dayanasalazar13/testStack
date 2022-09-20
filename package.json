@@ -1,0 +1,14 @@
+{
+  "name": "test-pj",
+  "version": "1.0.0",
+  "description": "Simple Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.0.1"
+  } 
+}
